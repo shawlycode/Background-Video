@@ -31,9 +31,11 @@ header {
   border-radius: 1rem;
   border: none;
   outline: none;
-  background-color: rgb(220, 12, 227);
+  background-color: rgba(220, 12, 227, 0.538);
   margin-left: 300px;
   cursor: pointer;
+  box-shadow: rgba(229, 9, 218, 0.22) 0px 19px 38px,
+    rgba(239, 6, 192, 0.135) 0px 15px 12px;
 }
 .bgBtn:hover {
   background: transparent;
@@ -51,9 +53,11 @@ header {
   border-radius: 1rem;
   border: none;
   outline: none;
-  background-color: rgb(220, 12, 227);
+  background-color: rgba(220, 12, 227, 0.538);
   margin-left: 300px;
   cursor: pointer;
+  box-shadow: rgba(229, 9, 218, 0.22) 0px 19px 38px,
+    rgba(239, 6, 192, 0.135) 0px 15px 12px;
 }
 .btn:hover {
   background: transparent;
